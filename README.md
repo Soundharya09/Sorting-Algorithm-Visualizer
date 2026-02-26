@@ -55,4 +55,5 @@ SOUNDHARYA SUNDARAM IYER
 ⭐ If you like this project, consider giving it a star!
 
 LinkedIn: https://www.linkedin.com/in/soundharyaiyer09
+
 Portfolio: https://github.com/Soundharya09/Sorting-Algorithm-Visualizer
