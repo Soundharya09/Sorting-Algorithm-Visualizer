@@ -24,14 +24,7 @@ The project also dynamically compares execution times using a graphical represen
 - HTML – Structure
 - CSS – Styling & Layout
 - JavaScript – Sorting logic & animations
-- Chart.js – Execution time visualization
-
-## Project Structure 
-sorting-visualizer/
-│
-├── index.html      
-├── style.css      
-└── script.js      
+- Chart.js – Execution time visualization   
 
 ## How to Run
 1. Download or clone the repository.
@@ -57,9 +50,9 @@ This project demonstrates:
 
 
 # 👨‍💻 Author
-## SOUNDHARYA SUNDARAM IYER
+SOUNDHARYA SUNDARAM IYER
 
-## ⭐ If you like this project, consider giving it a star!
+⭐ If you like this project, consider giving it a star!
 
-## LinkedIn: https://www.linkedin.com/in/soundharyaiyer09
-## Portfolio: https://github.com/Soundharya09/Sorting-Algorithm-Visualizer
+LinkedIn: https://www.linkedin.com/in/soundharyaiyer09
+Portfolio: https://github.com/Soundharya09/Sorting-Algorithm-Visualizer
