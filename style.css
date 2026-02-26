@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #111;
+    color: white;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+.controls button {
+    margin: 5px;
+    padding: 10px 15px;
+    background: #00adb5;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.controls button:hover {
+    background: #007f86;
+}
+
+#array-container {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 300px;
+    margin: 20px;
+}
+
+.bar {
+    width: 8px;
+    margin: 0 1px;
+    background: #00adb5;
+}
+
+canvas {
+    max-width: 800px;
+    margin: 20px auto;
+}

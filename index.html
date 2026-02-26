@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sorting Algorithm Visualizer</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <h1>Sorting Algorithm Visualizer</h1>
+
+    <div class="controls">
+        <button onclick="generateArray()">Generate New Array</button>
+        <button onclick="startSort('bubble')">Bubble</button>
+        <button onclick="startSort('insertion')">Insertion</button>
+        <button onclick="startSort('selection')">Selection</button>
+        <button onclick="startSort('merge')">Merge</button>
+        <button onclick="startSort('quick')">Quick</button>
+        <button onclick="startSort('heap')">Heap</button>
+        <button onclick="startSort('counting')">Counting</button>
+    </div>
+
+    <div id="array-container"></div>
+
+    <h2>Execution Time Comparison</h2>
+    <canvas id="timeChart"></canvas>
+
+<script src="script.js"></script>
+</body>
+</html>
